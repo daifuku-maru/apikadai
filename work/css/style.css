@@ -1,0 +1,26 @@
+body {
+  line-height: 1.5;
+}
+
+
+.manga {
+  display: flex;
+  margin-bottom: 16px;
+}
+.thumbnail {
+  margin-right: 12px;
+}
+.title {
+  margin-bottom: 12px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.authors {
+  font-size: 14px;
+}
+
+.wrapper {
+  max-width: 560px;
+  margin: auto;
+  padding: 80px;
+}
